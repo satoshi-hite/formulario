@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+body{
+    background-image: url(https://images8.alphacoders.com/852/thumbbig-852352.webp);
+    background-size: cover;
+}
+.formulario{
+    font-family: 'Rubik Dirt', cursive;
+    text-align: center;
+    height: 50vh;
+}
+.lottie{
+height: 50vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+textarea{
+    background-image: url(https://images6.alphacoders.com/854/thumbbig-854445.webp);
+    background-size: cover;
+    font-family: 'Lora', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Rubik Dirt', cursive;
+
+}
